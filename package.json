@@ -1,0 +1,29 @@
+{
+  "name": "recursividad",
+  "version": "0.1.0",
+  "description": "funcion de fibonacci en recursiva",
+  "main": "dist/src/recursividad.js",
+  "scripts": {
+    "build": "babel src/recursividad.js -d dist",
+    "test":  "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01agustin/primer-npm.git"
+  },
+  "keywords": [
+    "recursiva",
+    "montenegro",
+    "fundametnos",
+    "js"
+  ],
+  "author": "agus <agustin_9_d@hotmail.com> (https://facebook.com/agustin.montenegro.3)",
+  "license": "MIT",
+  "homepage": "https://github.com/01agustin/primer-npm#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}

@@ -1,0 +1,33 @@
+# RECURSIVA
+
+Recursiva solo tiene la funcion fibonacci que utilice para subir mi primer npm del curso de [fundamentos de javascript] (https://platzi.com/js) en [platzi](https://platzi.com)
+
+
+
+## Descriptcion del funcionamiento
+	
+	solo llama a la funcion fibonacci y pasa un numero y te da el numero fibonacci en esa poscion
+	si es 1 devuelve 0
+	si es 2 devuelve 1
+	si es 3 devuelve 1
+	si es 4 devuelve 2
+	si es 5 devuelve 3
+
+## instalacion
+```
+npm install recursividad
+```
+
+## uso
+```
+fibonacci(1)//1
+fibonacci(2)//2
+fibonacci(3)//3
+fibonacci(4)//5
+fibonacci(5)//8
+```
+## Creditos
+-[agustin montenegro](https://facebook.com/agustin.montenegro.30)
+
+## Licencia
+[MIT](https://opensource.org/licenses/MIT)
